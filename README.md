@@ -5,8 +5,10 @@ This is an example repository for the Git tutoial created by Olakitan
 
 This repository is built step by step in the tutorial.
 
-this shows the *EditCode feature of Github
+this shows the \*EditCode feature of Github
 
 another edit
 
 lets see how pull fetch and merge works
+
+we are pushing some edit to the remote repo(GITHUB)
